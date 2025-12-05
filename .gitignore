@@ -1,0 +1,11 @@
+
+*
+!**/*.py
+
+!**/*.cpp
+
+
+!*/
+
+!.gitignore
+!.gitattributes
